@@ -1,5 +1,8 @@
 #**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
-**DATE:**  
+
+DATE:A.09/08/2025,B.19/08/2025,C.23/08/2025,D.28/10/2025
+
+SLOT:5M1-1
 ---
 
 ## AIM
@@ -37,8 +40,7 @@ The entire configuration can operate with either AC or DC input.
  
 
 ---
-
-### **Inverting Amplifier**
+**A.Inverting Amplifier**
 
 This is the most widely used op-amp configuration.  
 The output voltage Vo  is fed back to the inverting input terminal through the  Rf - R1 network.  
@@ -92,7 +94,7 @@ Inverting amplifier:
 
 
 ---
-### **Non-Inverting Amplifier**
+### **B.Non-Inverting Amplifier**
 
 If the signal is applied to the non-inverting input terminal without inversion, it is called a **non-inverting amplifier**.  
 Here, the output is fed back to the inverting terminal, and **no phase shift** occurs.
@@ -138,7 +140,7 @@ PROCEDURE:
 
 
 ---
-## DIFFERENTIAL AMPLIFIER
+**C. DIFFERENTIAL AMPLIFIER**
 
 A circuit that amplifies the **difference** between two input signals is called a **Differential Amplifier**.  
 It is useful in instrumentation applications.  
@@ -193,7 +195,7 @@ Choose  R1 = 15kOhm, Rf = 15kOhm
 
 
 ---
-## INSTRUMENTATION AMPLIFIER
+**D.INSTRUMENTATION AMPLIFIER**
 
 THEORY:
 
