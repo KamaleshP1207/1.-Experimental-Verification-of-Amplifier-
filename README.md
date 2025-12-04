@@ -1,4 +1,4 @@
-#**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
+**EX.NO:** 1  # EXPERIMENTAL VERIFICATION OF AMPLIFIER INVERTING, NON INVERTING , DIFFERENTIAL AMPLIFIER AND INSTRUMENTATION AMPLIFIERS
 
 DATE:A.09/08/2025,B.19/08/2025,C.23/08/2025,D.28/10/2025
 
@@ -63,13 +63,8 @@ MODEL GRAPH
 
 
 DESIGN:
+![WhatsApp Image 2025-12-04 at 12 22 38_7c21fb27](https://github.com/user-attachments/assets/3518ca98-71e6-45b2-bd38-15fbe4ce0ecf)
 
-Inverting amplifier:
-
-A = -Rf/R1
-Take  A = 10
-Rf =10 R1
-Choose R1 = 10kΩ, Rf=100kΩ
 
 PROCEDURE:
 Inverting amplifier:
@@ -118,6 +113,13 @@ ACL = 1 + RF/R1
 <img width="456" height="340" alt="image" src="https://github.com/user-attachments/assets/00c7aaec-b4d8-414e-afa3-e985eb3dd902" />
 
 ---
+## DESIGN
+![WhatsApp Image 2025-12-04 at 12 22 38_5f28db66](https://github.com/user-attachments/assets/f99b788b-8d5b-484f-8410-f43602e27451)
+
+![WhatsApp Image 2025-12-04 at 12 22 38_9ab43129](https://github.com/user-attachments/assets/8090fd27-9cbd-4cfc-8915-520c5906ee99)
+
+
+
 PROCEDURE:
 ### **For  Non-Inverting Amplifier**
 1. Select R1  as a constant value and choose a value for Rf .  
@@ -158,6 +160,7 @@ A = Vo/{V2 - V1} = -Rf/R1
 ---
 
 ## DESIGN
+![WhatsApp Image 2025-12-04 at 12 22 38_47f6b410](https://github.com/user-attachments/assets/9327e697-9dbc-4e3c-8606-57363e5a2038)
 
 
 ### **Differential Amplifier**
